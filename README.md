@@ -33,6 +33,6 @@ git push origin main
 
 
 #### Reference 
- 1. [GIT](https://www.atlassian.com/git/tutorials)
+ 1. [GITtutorials](https://www.atlassian.com/git/tutorials)
 
 
